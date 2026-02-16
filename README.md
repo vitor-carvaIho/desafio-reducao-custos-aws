@@ -1,39 +1,39 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: [data de iní­cio do projeto]
-Empresa: Abstergo Industries 
+Data: 16/02/2026\
+Empresa: Abstergo Industries\
 Responsável: Vitor Carvalho
 
 ## Introdução
-Este relatÃ³rio apresenta o processo de implementaÃ§Ã£o de ferramentas na empresa [nome da empresa], realizado por [nome do responsÃ¡vel pelo projeto]. O objetivo do projeto foi elencar 3 serviÃ§os AWS, com a finalidade de realizar diminuiÃ§Ã£o de custos imediatos.
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Vitor Carvalho. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 ## Descrição do Projeto
-O projeto de implementaÃ§Ã£o de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos especÃ­ficos. A seguir, serÃ£o descritas as etapas do projeto:
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos especí­ficos. A seguir, serão descritas as etapas do projeto:
 
 Etapa 1: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [DescriÃ§Ã£o de caso de uso]
+- Amazon EC2
+- Computação escalável
+- Essencial para a hospadagem de sistemas ERP, ERP que por sua vez facilita a gestão e distribuição de produtos
 
 Etapa 2: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [DescriÃ§Ã£o de caso de uso]
+- AWS Supply Chain + Amazon Forecast
+- Unifica dados de sistemas ERP / Previsão de demanda e estoque
+- Supply Chain fornece a visibilidade em tempo real da cadeia de suplementos, enquanto o Forecast prevê a demanda e estoque para evitar excesso ou falta de produtos
 
 Etapa 3: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [DescriÃ§Ã£o de caso de uso]
+- Amazon Location Service
+- Integração de dados de localização
+- Permite monitorar remessas em tempo real e otimizar rotas de entrega, reduzindo custos de combustível e tempo de viagem das entregas
 
 
 
 ## Conclusão
-A implementaÃ§Ã£o de ferramentas na empresa *[nome da empresa] tem como esperado [benefÃ­cios das ferramentas]*, o que aumentarÃ¡ a eficiÃªncia e a produtividade da empresa. Recomenda-se a continuidade da utilizaÃ§Ã£o das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementação de ferramentas na empresa Abstergo Industries tem como esperado implementar o sistema ERP direto na nuvem, monitorar o estoque e prever a sua demanda e otimizar as rotas de entregas, o que aumentarão a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
 
-[lista de anexos, como manuais, documentos, planilhas, entre outros]
+[]
 
-Assinatura do ResponsÃ¡vel pelo Projeto:
+Assinatura do Responsável pelo Projeto:
 
-[Nome do ResponsÃ¡vel pelo Projeto]
+Vitor Carvalho
